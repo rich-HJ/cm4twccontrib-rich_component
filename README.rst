@@ -36,8 +36,8 @@ How to use the template?
 5. Develop your own component contribution(s) following the
    `Guide for Contributors <https://cm4twc-org.github.io/cm4twc/for_contributors/preparation.html>`_
 
-5. List your package dependencies in *requirements.txt*
+5. List your package dependencies in `<requirements.txt>`_
 
-6. Fill in the *README.rst* to briefly describe your component(s)
+6. Update `<README.rst>`_ to briefly describe your component(s)
 
-7. Fill in the first section of *setup.py* with your details
+7. Update the first section of `<setup.py>`_ with your details
