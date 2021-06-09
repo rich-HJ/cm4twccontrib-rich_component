@@ -14,7 +14,9 @@ How to use the template?
 
    git clone https://github.com/cm4twc-org/cm4twccontrib-template.git
 
-2. Rename the directory using your model name (note: replace <model_name> with your model name):
+2. Rename the directory using your model name (note: replace <model_name> with your model name,
+   please follow `PEP8 naming convention <https://www.python.org/dev/peps/pep-0008/#package-and-module-names>`_
+   for your model name, i.e. all-lowercase names with underscores if this improves readability only):
 
 .. code-block:: bash
 
