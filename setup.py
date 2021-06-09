@@ -5,7 +5,7 @@ from setuptools import setup, find_namespace_packages
 # information to be modified by contributors
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # pkg_name: name of the overarching model for the component(s)
-pkg_name = 'model_name'
+pkg_name = 'template'
 
 # authors: list of the contributors' names
 # (firstname before lastname, comma-separated)
