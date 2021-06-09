@@ -2,13 +2,13 @@ from setuptools import setup, find_namespace_packages
 
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# information to be modified by contributors
+# information to be updated by contributors
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # pkg_name: name of the overarching model for the component(s)
 pkg_name = 'template'
 
 # authors: list of the contributors' names
-# (firstname before lastname, comma-separated)
+# (firstname followed by lastname, comma-separated list)
 authors = 'Jane Doe, John Doe'
 
 # licence: open source licence under which package is distributed

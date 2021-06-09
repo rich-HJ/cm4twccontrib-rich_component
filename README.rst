@@ -40,4 +40,4 @@ How to use the template?
 
 6. Update `<README.rst>`_ to briefly describe your component(s)
 
-7. Update the first section of `<setup.py>`_ with your details
+7. Update the first part of `<setup.py>`_ with your details
