@@ -14,13 +14,13 @@ How to use the template?
 
    git clone https://github.com/cm4twc-org/cm4twccontrib-template.git
 
-2. Rename the directory using your model name:
+2. Rename the directory using your model name (note: replace <model_name> with your model name):
 
 .. code-block:: bash
 
    mv cm4twccontrib-template cm4twccontrib-<model_name>
 
-3. Change the remote repository using git remote and your GitHub account:
+3. Change the remote repository using git remote (note: replace <github_id> with your GitHub account):
 
 .. code-block:: bash
 
@@ -36,8 +36,8 @@ How to use the template?
 5. Develop your own component contribution(s) following the
    `Guide for Contributors <https://cm4twc-org.github.io/cm4twc/for_contributors/preparation.html>`_
 
-5. List your package dependencies in `<requirements.txt>`_
+6. List your package dependencies in `<requirements.txt>`_
 
-6. Update `<README.rst>`_ to briefly describe your component(s)
+7. Update `<README.rst>`_ to briefly describe your component(s)
 
-7. Update the first part of `setup.py <setup.py#L4-L20>`_ with your details
+8. Update the first part of `setup.py <setup.py#L4-L20>`_ with your details
