@@ -5,11 +5,11 @@ from setuptools import setup, find_namespace_packages
 # information to be updated by contributors
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # pkg_name: name of the overarching model for the component(s)
-pkg_name = 'template'
+pkg_name = 'rich_component'
 
 # authors: list of the contributors' names
 # (firstname followed by lastname, comma-separated list)
-authors = 'Jane Doe, John Doe'
+authors = 'RichE'
 
 # licence: open source licence under which package is distributed
 # (see https://choosealicense.com/)

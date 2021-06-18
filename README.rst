@@ -1,4 +1,4 @@
-A template to create cm4twc-compliant components
+A test component to check if the method for contributing works 
 ================================================
 
 This repository features the package structure and contains the files
